@@ -10,7 +10,8 @@ Author(s): Michael Guerzhoy with tests contributed by Siavash Kazemian.  Last mo
 """
 
 # pls ignore when i do type: ignore its so vs code will stop being so incredibly annoying with the yellow lines
-#real commments r when i use """something"""
+#real commments r when i use """something
+IMPORTANT NOTE: I did not get 100% on this project but failed some cases relating to winning with more or less than 5 pieces (didn't read it properly"""
 #sorry for making ur life harder ta
 
 """returns true if no stones on board"""
